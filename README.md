@@ -1,7 +1,7 @@
 # udacity_repo
 This is a repository to gain familiarity with git and Github.
 
-# useful Github Commands
+### useful Github Commands
 
 * git init
 * git clone
@@ -9,3 +9,5 @@ This is a repository to gain familiarity with git and Github.
 * git status
 * git commit
 * git branch
+* git merge
+* git rebase
